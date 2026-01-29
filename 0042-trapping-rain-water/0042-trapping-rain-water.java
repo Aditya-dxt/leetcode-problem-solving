@@ -1,4 +1,4 @@
-class Solution
+/*class Solution
 {
     public int trap(int[] height)
     {
@@ -23,6 +23,35 @@ class Solution
         for(int i=0;i<n;i++)
         {
             area=area+Math.min(left[i],right[i])-height[i];
+        }
+        return area;
+    }
+}*/
+
+class Solution
+{
+    public int trap(int[] height)
+    {
+        int area=0;
+        int n=height.length;
+        int left=0;
+        int right=n-1;
+        int leftmax=height[left];
+        int rightmax=height[right];
+        while(left<right)
+        {
+            if(leftmax<rightmax)
+            {
+                left++;
+                leftmax=Math.max(leftmax,height[left]);
+                area=area+(leftmax-height[left]);
+            }
+            else
+            {
+                right--;
+                rightmax=Math.max(rightmax,height[right]);
+                area=area+(rightmax-height[right]);
+            }
         }
         return area;
     }
