@@ -19,9 +19,10 @@ public class Solution
     {
         if (root == null)
             return 0;
-        int currentVal = (root.val >= low && root.val <= high) ? root.val : 0;
-        int leftSum = rangeSumBST(root.left, low, high);
-        int rightSum = rangeSumBST(root.right, low, high);
-        return currentVal + leftSum + rightSum;
+        if (root.val < low)
+            return rangeSumBST(root.right, low, high);
+        if (root.val > high)
+            return rangeSumBST(root.left, low, high);
+        return rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high) + root.val;
     }
 }
