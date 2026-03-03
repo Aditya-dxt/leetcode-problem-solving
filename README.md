@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Backtracking
 |  |
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
