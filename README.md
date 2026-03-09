@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
