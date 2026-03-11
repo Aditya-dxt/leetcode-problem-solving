@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [1009-complement-of-base-10-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1009-complement-of-base-10-integer) |
 ## Tree
 |  |
 | ------- |
