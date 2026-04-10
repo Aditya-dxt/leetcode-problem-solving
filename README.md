@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
 ## Linked List
