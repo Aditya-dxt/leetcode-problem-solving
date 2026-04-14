@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0657-robot-return-to-origin) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
