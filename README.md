@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
