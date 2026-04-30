@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
