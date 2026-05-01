@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
+| [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
