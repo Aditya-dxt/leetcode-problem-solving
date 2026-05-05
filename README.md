@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0239-sliding-window-maximum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0788-rotated-digits) |
