@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
