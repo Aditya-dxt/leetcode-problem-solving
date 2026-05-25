@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0239-sliding-window-maximum) |
+| [1871-jump-game-vii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1871-jump-game-vii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1871-jump-game-vii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2906-construct-product-matrix) |
