@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2906-construct-product-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
@@ -374,4 +376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
