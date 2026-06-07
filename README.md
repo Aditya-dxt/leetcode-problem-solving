@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0979-distribute-coins-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0979-distribute-coins-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
