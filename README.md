@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
