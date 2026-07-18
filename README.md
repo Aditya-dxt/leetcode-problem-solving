@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0788-rotated-digits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
