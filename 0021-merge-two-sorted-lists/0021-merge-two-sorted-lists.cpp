@@ -11,8 +11,10 @@
 class Solution
 {
     public:
-    ListNode* solve(ListNode* l1, ListNode* l2)
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2)
     {
+        ListNode* l1=list1;
+        ListNode* l2=list2;
         if(l1==NULL)
             return l2;
         if(l2==NULL)
@@ -21,17 +23,17 @@ class Solution
         if(l1->val<l2->val)
         {
             result=l1;
-            result->next=solve(l1->next,l2);
+            result->next=mergeTwoLists(l1->next,l2);
         }
         else
         {
             result=l2;
-            result->next=solve(l1,l2->next);
+            result->next=mergeTwoLists(l1,l2->next);
         }
         return result;
     }
-    ListNode* mergeTwoLists(ListNode* list1,ListNode* list2)
-    {
-        return solve(list1,list2);
-    }
+    //ListNode* mergeTwoLists(ListNode* list1,ListNode* list2)
+    //{
+    //    return solve(list1,list2);
+    //}
 };
