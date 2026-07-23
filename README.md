@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0147-insertion-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
