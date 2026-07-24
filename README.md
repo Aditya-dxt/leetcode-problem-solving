@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
