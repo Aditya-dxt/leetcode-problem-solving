@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1260-shift-2d-grid) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0788-rotated-digits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
