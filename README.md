@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## String
 |  |
