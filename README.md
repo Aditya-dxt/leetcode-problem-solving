@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
