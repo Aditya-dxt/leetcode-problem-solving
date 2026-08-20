@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
