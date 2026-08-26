@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3488-closest-equal-element-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
