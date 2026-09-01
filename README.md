@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3488-closest-equal-element-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3488-closest-equal-element-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
