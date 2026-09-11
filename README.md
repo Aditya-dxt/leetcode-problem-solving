@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0938-range-sum-of-bst) |
@@ -593,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2029-stone-game-ix) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
