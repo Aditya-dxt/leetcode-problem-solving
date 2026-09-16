@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2126-destroying-asteroids) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
