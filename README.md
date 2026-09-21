@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3488-closest-equal-element-queries) |
+| [3524-find-x-value-of-array-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3524-find-x-value-of-array-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
