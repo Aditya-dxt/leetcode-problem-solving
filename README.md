@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1340-jump-game-v](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0617-merge-two-binary-trees) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 ## Binary Search Tree
 |  |
