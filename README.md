@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0222-count-complete-tree-nodes) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0874-walking-robot-simulation) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
