@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Database
