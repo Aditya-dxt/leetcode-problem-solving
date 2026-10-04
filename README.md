@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0788-rotated-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1340-jump-game-v) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0946-validate-stack-sequences) |
 | [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1096-brace-expansion-ii) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Database
