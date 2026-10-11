@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
