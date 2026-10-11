@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -667,15 +668,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -705,4 +709,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0196-delete-duplicate-emails) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
