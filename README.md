@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Aditya-dxt/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
